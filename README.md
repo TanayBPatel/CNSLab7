@@ -22,3 +22,4 @@ This experiment successfully demonstrated the exploitation of several critical v
 The remediation process involved leveraging DVWA's high-security settings, which implement modern defense mechanisms such as prepared statements, context-aware output encoding, and anti-CSRF tokens. The effectiveness of these mitigations was verified for each vulnerability.
 
 **Note:** All exploits were conducted in a controlled, isolated virtual machine environment for educational purposes.# CNSLab7
+# CNSLab7
